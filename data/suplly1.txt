@@ -1,0 +1,894 @@
+Supplyframe 2023 Homepage Copy 
+#1 Hero Section 
+
+- H1: Tomorrow’s Sourcing (cycle through: Design, Quoting, Marketing, Sourcing) Intelligence, Today 
+
+- Secondary text: Mitigate risk, cut costs, and make smarter decisions with leading solutions built for professionals across the electronics value chain. 
+
+Graphic Keywords: 
+
+	•	Increased Revenue
+	•	Faster Time to Market
+	•	Reduced Cost
+	•	Risk Mitigation
+
+CTA: Get Started 
+#2 Validation Section (Trusted by…) 
+
+Header: Trusted by 250+ Electronics Industry Leaders  
+Secondary text: The world's most innovative electronics companies rely on Supplyframe to accelerate design cycles, optimize sourcing, and introduce their products to the world's largest market of active electronics professionals.
+
+Logos: Siemens, Panasonic, Dell, Fujitsu, HP, GE, Toshiba, Haier Baker Hughes. 
+#3 Network Section (Interactive Component Model) 
+
+Headline: One Design, Countless Insights 
+
+Supporting Copy: Resilience starts at the point of design. With Supplyframe, you gain access to complex, real-time data on over 650 million components that allows your teams to anticipate risk, optimize product launches, and reduce costs. 
+
+By combining real-world intelligence from our global network with your own internal insights, your organization can accelerate its digital transformation and outpace your competitors. It all starts with an AI-powered platform that’s always on, always learning, and always improving. 
+
+Chip Interactivity: 
+
+- Design: Downloadable assets like 3D Models, PCB Schematics, and footprints streamline design and offer a glimpse into what engineers are building.  
+
+- Sourcing: Real-world intelligence and forecasts across raw materials, analog power, sensors, and more paint a complete picture to support strategic decisions. 
+
+- Risk: Understand which components present the greatest risk, avoid redesigns, identify the best possible pricing, and bring your product to market faster than ever. 
+
+Statistics: 
+
+- Over 1 Billion searchable part attributes 
+- 700K model downloads 
+- 12 million engineering and sourcing professionals
+- 70+ vertical search engines, community sites, and media properties
+#4 Solutions Section (Grouped by Categories) 
+
+Headline: Innovative Software For The Global Electronics Value Chain
+
+Supporting Text: Whether you’re introducing a new product, marketing to a global engineering audience, solidifying a long-term sourcing strategy, or augmenting your market intelligence, our software solutions are built to get the job done.
+
+Categories: 
+
+Design and Engineering 
+Build Resilient Products, with Reduced Costs and a Faster Time to Market 
+
+Sourcing and Procurement
+Optimize Supply Chains with Intelligent Sourcing. and Quoting Capabilities
+
+Marketing and Sales 
+Engage With a Global Audience of Engineers and Sourcing Professionals
+#5 Video Section 
+
+Headline: An Unwavering Vision for the Future of Global Electronics 
+
+Supporting Text: Join Supplyframe and Siemens leadership as they reflect on the company’s vision for digital transformation across the global electronics value chain. and what the future holds. 
+#6 Supplyframe Timeline
+
+Headline: 20 Years of Innovation and Digital Transformation
+
+2003: Supplyframe was founded in August 2003, with a vision for transformation across electronics suppliers, distributors, and manufacturers. 
+
+2004: In 2004, Supplyframe launched QuoteFx, a web-based quote management tool built specifically for the electronics industry.
+
+2005-2023: Discover the Supplyframe story, and learn how our organization has transformed alongside the greater electronics industry. 
+
+CTA: View The Full Supplyframe Story 
+#7 Resources and Community Section 
+
+Headline: Resources and Community 
+
+First section (DesignLab:) Located in Pasadena, California, the Supplyframe DesignLab is a 4,900 square foot, state-of-the-art facility. The latest prototyping and manufacturing technology, all under one roof. Take a Virtual Tour today! 
+
+Other sections: The carousel should be populated with recent Supplyframe Resources articles 
+#8 Form Section 
+
+Headline: Join a Community of Innovators
+
+Supporting Copy: Fill out the form below to join the conversation and tap into a rich library of intelligence and resources that will accelerate your organization’s digital transformation! 
+
+CTA: Learn More 
+
+
+
+
+
+Commodity IQ Solution Page
+
+Headline: Commercial Insights to Support Long-Term Business Decisions 
+
+Secondary Text: In an industry filled with uncertainty, the path forward becomes clear when operational intelligence joins up-to-date insights and analysis. 
+
+Commodity IQ provides forward-looking decision support across engineering and commercial stakeholders that reduce risk and create new opportunities for cost savings during supplier negotiations. 
+
+Block: Anticipate Risk, Improve Outcomes
+See into the future with a combination of operational data and industry-leading analysis, all on one platform. 
+
+Block: Procure With Precision 
+Know when to buy and who to buy from, with a solution that provides all the intelligence needed for better supplier negotiations. 
+
+Block: Focus on What Matters 
+Set alerts and define parameters with a fully configurable dashboard, and arrive at critical insights faster. 
+
+Header: Analytics and Analysis You Won’t Find Anywhere Else 
+
+Secondary Text: Powered by a global network of 11 million professionals and 500 industry partners, Commodity IQ’s insights are unique to the platform and based on real-world activity. 
+
+Statistics: 
+
+150 billion Annual direct materials spend
+2 billion Component design and demand signals
+11 Million active engineering, procurement, & sourcing professionals
+$6.77 Billion Global Relay Market Value in 2022
+
+Header: Elevate Your Intelligence 
+
+Secondary Text: Commodity IQ delivers the optimum balance of human and machine intelligence for the electronics supply chain.
+
+[FORM] 
+
+
+Supplyframe NPI Solution Page 
+
+Headline: New Product Introduction 
+
+Secondary Text: Infuse your new product development cycles with class-leading intelligence and eliminate up to 80% of lifetime risk with Supplyframe NPI. 
+
+New product introductions don’t just take place at the point of sale. With Supplyframe NPI, bring greater intelligence to your product development teams, so they can build with confidence, accelerate design cycles, and improve process management from design to sourcing. 
+
+Block: Launch New Products on Time and Within Budget 
+Analyze your bill of materials to understand risk, part availability, and lead times. Eliminate the need for redesigns and speed up time to market. 
+
+Block: Overcome Complexity 
+As bills of material become increasingly complex, source with confidence and easily identify alternates. 
+
+Block: Work Smarter, Not Harder 
+Collaborate directly across teams, send messages, and make shared decisions within a single platform. 
+
+Header: Resilience Starts at the Point of Design  
+
+Stats: 
+15% First Year Cost Savings
+70% Reduction in BOM Cleanup Time
+5 Months Time Removed From Sourcing Cycles
+50% Reduction in Data Errors
+
+Header: Industry Perspectives: Learn How Today’s Organizations Can Overcome Challenges in Their NPI processes. 
+
+[FORM] 
+
+CTA: Download the Report 
+
+
+
+
+
+
+Supplyframe DirectSource Solution Page 
+
+Headline: Product Lifecycle Intelligence 
+
+Supporting Text: Supplyframe DirectSource is a solution purpose-built to empower procurement and supply chain professionals in the electronics industry. Product lifecycle management hasn’t changed in decades. Reimagine what’s possible when you bring real-time information into the fold and illuminate the blind spots in your sourcing network. 
+
+Block: Inject New Intelligence into Product Lifecycle Management 
+Take advantage of outside-in intelligence from Supplyframe's global DSI Network to better understand market dynamics, commodity trends, and opportunities for resilience in your designs, all within a single platform
+
+Block: Fix Broken Processes 
+Step away from spreadsheets and email communication, embrace collaboration between engineering and sourcing. 
+
+Block: Get The Most From Your Supplier Network 
+Enhance your strategic sourcing with greater visibility to component-level lead times, lifecycles, and costs. 
+
+Header: Strategic Sourcing That Accelerates Savings
+
+Supplyframe DirectSource enables the continuous optimization of direct materials sourcing by surfacing real-time actionable intelligence, from market analysis through sourcing event execution.
+
+Header: Manage demand, mitigate risk, forecast shifts in supply, and transform your sourcing strategy.
+
+Statistics: 
+70% Faster Data Cleansing Cycle
+50% Reduction in High-risk Parts
+1-2% Margin Improvement
+2 Week Stage Gate Reduction
+
+Header: Learn More About The Trillion Dollar Problem in Global Electronics (And How to Solve It) 
+
+[FORM] 
+
+CTA: Download the Whitepaper 
+DesignSense Solution Page 
+
+Headline: Engineering Better Design Outcomes 
+
+Supporting Text: Supplyframe's DesignSense solutions bring today’s engineers, component manufacturers, and distributors closer together. Engineers gain immediate access to design assets like 3D models, while manufacturers and distributors achieve a deeper understanding of active design cycles. 
+
+Header: Engage With a Global Engineering Audience
+
+Supporting Text: Component manufacturers and distributors gain unparalleled access to active design cycles through the world’s most powerful network of engineering and sourcing professionals. From 3D Models to PCB schematics, footprints, and datasheets, engineers have access to everything they need to design better products. 
+
+Block: Gain Visibility into Design and Sourcing Activity
+Tap into Supplyframe’s global network of over 12 million engineering and sourcing professionals, with real-time insights into purchasing, consideration, and product research. 
+
+Block: High Quality Design Assets for Engineers
+Engineers receive free access to schematic symbols, PCB footprints and 3D models on Component Search Engine. Search PCB libraries that integrate with the ECAD tools you know and use every day. 
+
+Block: A 360-Degree Customer Experience
+Offer your teams a 360-degree view of their customers, both online and off, to deliver a seamless closed loop for both new and existing users.
+
+Header: Unmatched Reach and Influence
+
+Stats: 
+7% Improved Revenue Lift in the First Year
+2M Net New Sales Pipeline
+2K Qualified Leads From Sales Intelligence
+$4M Generated LTV by Confirmed Design-ins
+
+Block: DesignSense Models: 
+Build and distribute accurate design assets, including schematics, symbols, and 3D models, to a global audience of engineers.
+ 
+
+Block: DesignSense Sales Intelligence: 
+Secure more design wins and increase market share with real-time insights into active design cycles.
+
+Block: Component Search Engine: 
+Find a component, download free design assets, and add it to your ECAD tool of choice, all in one place. 
+
+Header: A 360-Degree Customer Experience
+
+Supporting Text: Offer your teams a 360-degree view of their customers, both online and off, to deliver a seamless closed loop for both new and existing users.
+
+[FORM] 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Supplyframe CPQ Solution Page
+
+Headline: Configure, Price, Quote 
+
+Supporting text: Intelligent quote response is easier than you think. Supplyframe CPQ is a quoting solution built specifically for the electronics industry, backed by the world’s largest network of sourcing and engineering professionals.
+
+Header: Take Your Quote Process from Hours to Minutes
+
+Supplyframe CPQ empowers distributors and component manufacturers with optimized price and product recommendations for a streamlined quote response process.
+
+Callout Section: Our flexible quoting capabilities are tailored to all aspects of global electronics, with purpose-built capabilities for Electronic Manufacturing Services providers.  
+
+CTA: Learn more about quoting solutions for EMS providers.
+
+Block: Provide a Seamless Experience
+Customers demand a low-touch, efficient process when they buy direct. Integrate your online and offline experiences for a seamless customer journey.
+
+Block: Streamline Quote Response
+Automate quoting with less effort and without sacrificing customer satisfaction. Engage first, respond faster, and improve win rates with an automated solution.
+
+Block: Unlock Valuable Intelligence
+Leverage a repository of data, market intelligence, and machine learning to create automatic configurations. Give your teams more time to sell.
+
+Statistics: 
+5-10% Revenue Lift
+3% Margin Improvement
+35% Time saved on quote response
+3-6 Months Time to Value
+
+Header: Leverage Historical Pricing, Eliminate Manual Quote Response, and Reap The Rewards
+
+[FORM] 
+
+
+
+Supplyframe Media & Ecommerce Solution Page 
+
+Header: Harness The Largest Media Network For Electronics Components 
+
+Supporting text: Provide sales and marketing teams with the tools they need to reach electronics professionals throughout every stage of the design-to-source journey. 
+
+CTA: Learn More 
+
+Header: Reach a Worldwide Network of Electronics Professionals 
+
+Supporting Text: 
+Today's engineers and buyers have more information at their fingertips than ever before. Component manufacturers and distributors must work harder than ever to ensure their products reach the right audience at the right time.
+
+CTA: Download the 2023 Media Kit 
+
+Block: Boost awareness and differentiation
+Engage with millions of electronics professionals across more than 70 vertical search engines, media properties and communities around the world.
+
+Block: Meet Engineers Where They Are
+Millions of engineers rely on the Supplyframe network every day to research new components and make design decisions, creating opportunities for targeted, timely advertising.  
+
+Block: Increase Sales From Marketing and Advertising 
+Drive sales and take advantage of the #1 electronic components price and inventory aggregation destination for sourcing professionals.
+
+Header: Supplyframe Media by The Numbers  
+
+Supporting text: Every ten seconds, Supplyframe reaches more electronics professionals globally than any other marketing solution.
+
+Statistics: 
+
+402 million - Product searches on Supplyframe's Network
+143 Million - Datasheets Downloaded by Engineers
+20 Million - Visits to Customer Websites 
+17 Million - Parts added to shopping carts 
+
+
+Header: Supplyframe Media and E-Commerce Solutions: 
+
+Supporting Text: Whether you're seeking to reach a new audience, increase market share, or improve sales, Supplyframe's Media and eCommerce solutions are designed to get results
+
+Block: IPO Ads 
+A turnkey program tailored to client communication needs, with creative development in-house at Supplyframe. Featuring geo targeting for specific regions and detailed monthly reports.
+
+Block: Audience Extension 
+Target engineers and component buyers across our network of over 10 million electronics professionals. Segment by part category or industry vertical to ensure qualified leads.
+
+Block: Display Ads 
+Draw attention to new products and special offers, all while increasing brand awareness in the marketplace. Receive detailed monthly reports on impressions and click-through data.
+
+Block: Premium Listings 
+Drive engineers directly to your product pages with premium listings on Supplyframe network websites. Choose from multiple types to prominently feature in-stock parts.
+
+Block: Newsletter/EDM 
+Create and deliver custom, vertical email newsletters for the Chinese audience, or rent email lists as well. Leverage full design and content creation services to make your newsletter a reality.
+
+Block: E-Commerce 
+Reach and inform buyers of your available inventory and direct them to your shopping cart. Optimized to give you the best results for both global and regional audiences.
+
+Header: Discover a Better Way to Reach Customers 
+
+[FORM]
+
+CTA: Download The Media Kit 
+
+
+\
+Industry Page - Transportation and Automotive 
+
+Header: Transportation and Automotive 
+
+Supporting Text: Intelligent solutions for the automotive industry’s electrification journey 
+
+CTA: Learn More  
+
+Header: Balancing Risk With Innovation in a Dynamic Industry 
+
+Block: The Connected Vehicle 
+Today’s consumers are seeking vehicles with heightened connectivity and a vast array of safety features, including ADAS systems and autonomous features. 
+
+Block: Resilient Automotive Supply Chains 
+Industry professionals must move past spreadsheets and emails. Speed, agility, and intelligence are a requirement for success going forward. 
+
+Block: Accelerating Towards Electrification
+Vehicle designs are rapidly evolving as electrification becomes a primary focus. New technologies and expanding BOMs require a smarter, more capable supply chain to match.
+
+Header: Solutions For Automakers and Suppliers 
+
+Block: Resilient, Cost-Effective Designs 	
+Analyze BOMs for cost and risk. Identify alternate components and ensure resiliency at the point of design. 
+
+Link: Learn More About NPI 	
+
+Block: Long-Term Strategic Sourcing
+Manage demand, forecast inventory, and prevent costly shutdowns with component-level insights.
+
+Link: Learn More About DirectSource
+
+Block: Real-Time Market Intelligence
+Access valuable metrics like lead times, design activity, and industry alerts across commodity groups.
+	
+Link: Learn More About Commodity IQ 
+
+Header: What’s in Store For the Automobile 
+	
+Supporting Text: Download our latest report to learn how digital technologies are transforming the automotive industry. 
+
+[FORM] 
+
+CTA: Download the Whitepaper 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Industry Page - Consumer Products 
+
+Header: Consumer Products 
+
+Supporting Text: Meet rising demand and embrace new technologies to outpace your competitors.  
+
+Header: Resilience and Clarity For an Ever-Evolving Industry 
+
+Block: Transparency in Supply Chains  
+From visibility into suppliers and other tiers of the supply chain, to consumer demand for sustainability, today’s manufacturers are focused on enhanced awareness. 
+
+Block: Constant Innovation 
+Today’s consumers are seeking new forms of connectivity and smart features, which requires an environment of continuous innovation. 
+
+Block: Bringing Resilience into Design 
+Today’s industry leaders are mitigating risk during the design phase by choosing readily available parts with minimal long-term risk. 
+
+Header: Tomorrow’s Consumer Products Designed by Today’s Solutions 
+
+Block: Augment Your Market Intelligence With Key Insights
+Leverage deep, predictive insights into key commodities and stay ahead of the curve with real-time industry alerts.
+
+Link: Learn More About Commodity IQ 
+
+Block: Enhance New Product Introductions 
+Collaborate across engineering and sourcing within a single solution that incorporates BOM validation with real-time component intelligence and easily identifiable alternates.
+
+Link: Learn More About NPI 
+
+Block: Redefine Strategic Sourcing 
+Make smarter sourcing decisions throughout the product lifecycle with a solution purpose-built to ensure resilient supply and higher margins.
+
+Link: Learn More About DirectSource 
+
+Header: Consumer Products 2023 Outlook and Risk Analysis
+
+[FORM] 
+
+CTA: Download The Whitepaper  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Industry Page - High Tech & Consumer Electronics 
+
+Header: High Tech and Consumer Electronics
+
+Supporting Text: Adapt to rising demand and prioritize innovation with every launch.  
+ 
+CTA: Discover Solutions For High Tech and Consumer Electronics 
+
+Header: Superior Capabilities to Stay Ahead of Your Competitors 
+
+Block: Take the Guesswork out of Sourcing  
+Harness real-time intelligence and reliable forecasts to navigate shortages, extended lead times, and other sourcing challenges with confidence. 
+
+Block: Design For Customer Satisfaction 
+Consumer demand is evolving towards personalized products and experiences, requiring engineering innovation to keep pace. 
+
+Block: Collaborate Between OEMs and Suppliers 
+Avoid issues related to obsolescence and discontinued components by collaborating across teams and with supply chain partners. 
+
+Header: Solutions for High Tech and Consumer Electronics Manufacturers 
+
+Block: Harness Up-to-Date Market Intelligence 
+Access real-world operationalized intelligence, combining large scale data analytics with curated expert analysis for immediate and long-term insights.
+
+Link: Learn More About Commodity IQ 
+
+Block: Design and Source Resilient Products 
+Validate your bill of materials for new product introductions while collaborating across engineering, sourcing and procurement.
+
+Link: Learn More About Supplyframe NPI 
+
+Block: Mitigate Risk in Your Strategic Sourcing
+Monitor inventory, assess risk, identify alternates, and source with confidence knowing you have continuous and reliable supply. 
+
+Link: Learn More About DirectSource 
+
+Header: Discover The High Tech and Consumer Electronics 2023 Outlook 
+
+[FORM]
+
+CTA: Download the Whitepaper 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Industry Page - Electronic Manufacturing Services Providers 
+
+Header: Electronic Manufacturing Services Providers (EMS) 
+
+Supporting Text: Exceed customer expectations with intelligent quote management and end-to-end sourcing.
+
+CTA: Discover Solutions For EMS Providers 
+
+Header: Addressing Rising Demand and Customer Expectations 
+
+Block: Present and Future Supply Chain Visibility 
+Real-time inventory and pricing, paired with demand and lead time forecasts to ensure smooth sourcing and production. 
+
+Block: Intelligent RFQ Management 
+External market data, analytics, and insights like historical pricing allow for smarter, more profitable decisions. 
+
+Block: Managing Risk and Obsolescence .
+End-of-life status, excess inventory, and countless other risks contribute to potential downtime. Teams need to better understand where risk exists, and how to mitigate its effects.
+
+Header: Solutions Tailored to The Needs of EMS Providers 
+
+Block: Provide Intelligent Quote Response 
+Take your quote response from hours to minutes, utilize optimized price and product recommendations for a streamlined experience.
+
+Link: Learn More About CPQ 
+
+Block: Engage With a Global Engineering Network 
+Reach and engage with a network of over twelve million engineering and sourcing professionals with targeted advertising solutions.
+
+Link: Learn More About Media & E-Commerce
+
+Block: Understand Engineering Activity 
+Monitor global design and engineering activity to optimize sales efforts. Understand what engineers are building and where they are in their journey.
+
+Link: Learn More About DesignSense 
+
+Header: 2023 EMS Industry Outlook and Risk Analysis 
+
+[FORM] 
+
+CTA: Download the Whitepaper 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Industry Page - Industrial Equipment 
+
+Header: Industrial Equipment 
+
+Supporting Text: Deliver specialized and sustainable equipment designs, to support the growth of smart manufacturing on a global scale. 
+
+CTA: Discover Industrial Equipment Solutions 
+
+Header: The Pursuit of Smart, Sustainable Innovation 
+
+Block: Industry 4.0 and Industrial IoT  
+New technologies are driving the need for constant innovation and agility to maintain a competitive edge. 
+
+Block: Sustainability and Circular Supply Chains
+Today’s industrial equipment manufacturers are finding new ways to reuse, recycle, or rethink their profits for a more sustainable future. 
+
+Block: Demand for Talent and Technology 
+Hiring and retaining top talent is a major focus for manufacturers, but adopting technology to automate certain processes and streamline manual tasks is also key.
+
+Header: Industrial Equipment Solutions That Never Shut Down 
+
+Block: Deep Insight into Cost and Risk 
+Real-time insights into pricing, market intelligence, and component level risk give your teams the data they need to make better sourcing and procurement decisions. 
+
+Link: Learn More About DirectSource 
+
+Block: Streamlined BOM Validation 
+Drastically reduce new BOM validation and redesigns  with automated part number verification and readily available alternates that match form, fit, and function. 
+
+Link: Learn More About Supplyframe NPI 
+
+Block: Always-on Decision Support  
+Access analysis and forecasts into  lead times,design activity, and industry alerts across commodity groups. 
+
+Link: Learn More About Commodity IQ 
+
+
+
+Header: Industrial Equipment: 2023 Prediction and Risk Analysis 
+
+[FORM] 
+
+CTA: Download the Whitepaper 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Industry Page - Manufacturers, Suppliers & Distributors 
+
+Header: Manufacturers, Suppliers & Distributors 
+
+Supporting Text: Accelerate time to market, secure more design wins, and increase your market share. 
+
+CTA: Discover Solutions For Manufacturers, Suppliers, and Distributors 
+
+Header: Achieve a 360-degree View of Your Customers
+
+Block: Identify Design Activity 
+New intelligence allows sales and marketing teams to better understand what engineers are building. 
+
+Block:  Reach New and Existing Markets 
+Expand brand awareness and audience reach with tailored advertising solutions.
+
+Block: A Streamlined Customer Experience
+Purchasing and quoting benefit greatly from intelligence-driven processes that remove manual work and save time. 
+
+Header: Solutions for Electronics  Manufacturers, Distributors, and Suppliers 
+
+Block: Provide Intelligent Quote Response 
+Take your quote response from hours to minutes, utilize optimized price and product recommendations for a streamlined experience.
+
+Link: Learn More About CPQ 
+
+Block: Reach a Global Network 
+Reach and engage with a network of over ten million engineering and sourcing professionals with our targeted advertising solutions.
+
+Link: Learn More About Media & E-Commerce 
+
+Block: Understand Engineering Activity  
+Monitor global design and engineering activity to optimize sales efforts. Understand what engineers are building and where they are in their journey. 
+
+Link: Learn More About DesignSense Sales Intelligence 
+
+Header: Understand 2023 Risks and Opportunities Across Global Electronics 
+
+[FORM]
+
+CTA: Download the Whitepaper 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Industry Page - Medical Devices 
+
+Header: Medical Devices 
+
+Supporting Text: Real-time intelligence and purpose-built solutions for an industry where compromise is not an option. 
+
+CTA: Discover Solutions For Medical Devices 
+
+Header: Build Supply Chains That are Immune to Disruption 
+
+Block: Medtech’s Digital Transformation 
+Fluctuations in supply and demand have led medical device makers to embrace new types of external intelligence to monitor critical factors like pricing and lead times. 
+
+Block: Shifting Patient Expectations 
+Healthcare technology is shifting towards personalized treatment and connected platforms, and consumers expect new solutions to reflect these shifts.
+
+Block: Complex Regulations  
+Regulatory approval takes up to eight months due to current and emerging regulations that require highly specific designs and components.
+
+Header: Solutions for Medical Device Manufacturers 
+
+Block: Accelerate Product Development  
+Shorten R&D cycles and get new products to patients faster with a solution that allows you to quickly assess product risk and identify viable alternatives.
+
+Link: Learn More About Supplyframe NPI 
+
+Block: Innovate Without Disrupting Care 
+Take the guesswork out of strategic sourcing, automate manual tasks, so your teams can focus on the next steps for healthcare technology. 
+
+Link: Learn More About DirectSource 
+
+Block: Stay Ahead of The Curve 
+Connect the dots between new regulations and shifting commodity markets. Understand where risk exists, and take action faster. 
+
+Link: Learn More Commodity IQ 
+
+Header: 2023 Medical Device Industry Outlook 
+
+[FORM] 
+
+CTA: Download the Whitepaper 
+
+
+
+
+
+
+
